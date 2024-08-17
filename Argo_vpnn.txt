@@ -1,8 +1,0 @@
-vless://230897ef-fb28-4881-be0d-01f5bfc882dd@www.parsvds.ir:8080?path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8080&security=none&encryption=none&host=unlimiteddev-vpn.unlimiteddev.Community.&type=ws#%40argo_vpnn+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84#argo_vpnn
-
-
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-dk3.pages.dev:443?path=%2FPX8F58g99kX8jRU8%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=JOiNMahdiSErver-Dk3.pagES.DEv&fp=randomized&type=ws&sni=joInMahdISeRveR-dk3.pageS.dEV#%40argo_vpnn.+%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84#argo_vpnn
-
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-dk3.pages.dev:443?path=%2FPX8F58g99kX8jRU8%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=JOiNMahdiSErver-Dk3.pagES.DEv&fp=randomized&type=ws&sni=joInMahdISeRveR-dk3.pageS.dEV#%E2%9C%A8%EF%B8%8F+%40argo_vpnn.++%D9%81%D9%82%D8%B7+%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84#argo_vpnn
-
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?path=%2FMNh1mpOxzNiLNjbx%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=JOinMahdIsERVer-DK3.pagEs.dev&fp=randomized&type=ws&sni=JOINmAhDisErveR-Dk3.PaGES.DEV#%E2%9C%A8%EF%B8%8F+%40argo_vpnn.+++%D9%81%D9%82%D8%B7+%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84#argo_vpnn
